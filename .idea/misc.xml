@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectsAndroid/Paging3NetworkOnly/app/src/main/res/drawable/gradient_name.xml" value="0.224" />
+        <entry key="..\:/ProjectsAndroid/Paging3NetworkOnly/app/src/main/res/layout/activity_main.xml" value="0.12047101449275362" />
+        <entry key="..\:/ProjectsAndroid/Paging3NetworkOnly/app/src/main/res/layout/row_loader.xml" value="0.23692307692307693" />
+        <entry key="..\:/ProjectsAndroid/Paging3NetworkOnly/app/src/main/res/layout/row_photo.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
